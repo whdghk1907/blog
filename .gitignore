@@ -9,3 +9,32 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+# Security and SSH keys
+*.pem
+*.key
+*.pub
+*-key
+*-key.pub
+user-data.sh
+
+# Only track content folder changes
+/*
+!/content/
+!/.gitignore
+!/package.json
+!/package-lock.json
+!/quartz.config.ts
+!/quartz.layout.ts
+!/tsconfig.json
+!/globals.d.ts
+!/index.d.ts
+!/README.md
+!/LICENSE.txt
+!/CODE_OF_CONDUCT.md
+!/.prettierrc
+!/.prettierignore
+!/.node-version
+!/.npmrc
+!/.gitattributes
+!/Dockerfile
