@@ -4,6 +4,20 @@
 
 ## 📁 구조
 
+### 🧠 MachineLearning-Fundamentals
+머신러닝 기초 학습 프로젝트 (MLOps 선행 학습)
+- **Theory/**: 머신러닝 이론 학습 자료
+  - **Supervised-Learning/**: 지도학습 이론 (사이킷런, 붓꽃 분류)
+- **Practice/**: 실습 프로젝트 및 구현
+  - **Iris-Classification/**: 붓꽃 분류 모델 구현 실습
+- **Notes/**: 학습 노트 및 회고
+  - **Daily-Learning/**: 일일 학습 노트 및 회고
+- **Resources/**: 참고 자료 및 데이터셋
+
+**진행 상황**: 🟢 활발히 진행 중 (25% 완료)
+- ✅ 사이킷런 소개와 머신러닝 분류 예측 모델 개요
+- 🔄 붓꽃(Iris) 품종 예측 모델 구현 (이론 완료, 실습 준비 중)
+
 ### 🤖 MLOpsBasics
 머신러닝 운영 기초 학습 프로젝트
 - **Fundamentals/**: 기초 개념 및 구현 방법론

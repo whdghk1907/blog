@@ -6,6 +6,13 @@
 
 ### 🎓 Skills
 기술 및 역량 관련 학습 자료
+- **MachineLearning/**: 머신러닝 기초 개념, 알고리즘, 구현 가이드
+  - **Core-Concepts/**: 핵심 개념 및 기초 지식
+    - **Classification-Basics/**: 분류 기초 개념 및 이론
+  - **Datasets/**: 머신러닝 데이터셋 가이드
+    - **Iris-Dataset/**: 붓꽃 데이터셋 완전 가이드
+  - **Workflow/**: 머신러닝 프로젝트 워크플로우
+    - **ML-Project-Workflow/**: 머신러닝 프로젝트 전체 워크플로우 가이드
 - **MLOps/**: 머신러닝 운영 관련 개념, 패턴, 학습 자료
 
 ### 🔍 Search
@@ -13,6 +20,7 @@
 
 ### 🛠️ Tools
 도구 및 기술 가이드
+- **Python-ML/**: Python 머신러닝 도구 및 라이브러리 가이드
 - **AWS/**: Amazon Web Services 관련 설정 및 관리 가이드
 - **Docker/**: 컨테이너 기술 관련 설정 및 관리 가이드
 - **SSH/**: 원격 접속 및 연결 관련 가이드

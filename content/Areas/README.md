@@ -4,6 +4,16 @@
 
 ## 📁 구조
 
+### 🧠 MachineLearning
+머신러닝 기술 및 지식 전문 영역
+- **Algorithm-Mastery/**: 핵심 알고리즘 심화 이해
+  - **Classification-Overview/**: 분류 알고리즘 종합 관리
+- **Model-Development/**: 모델 개발 베스트 프랙티스
+- **Performance-Optimization/**: 모델 성능 최적화 기법
+- **Practical-Skills/**: 실습 기술 및 구현 능력 관리
+  - **Model-Implementation/**: 모델 구현 실습 기술 관리
+- **Industry-Applications/**: 산업별 적용 사례 및 패턴
+
 ### 🤖 MLOps
 머신러닝 운영 및 관리 전문 영역
 - **Data-Management/**: 데이터 관리 정책 및 절차
